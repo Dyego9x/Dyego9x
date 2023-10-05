@@ -1,6 +1,11 @@
 ## Diego Fernando!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyego9x&theme=transparent)](https://github.com/Dyego9x/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyego9x&theme=transparent)](https://github.com/Dyego9x/github-readme-stats)
+<a href="https://github.com/Dyego9x/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dyego9x&theme=transparent&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/Dyego9x/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dyego9x&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
