@@ -1,5 +1,5 @@
 ## Diego Fernando!
-![Bitbucket commits](https://img.shields.io/bitbucket/commits/contabilivre/app)
+
 <a href="https://github.com/Dyego9x/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dyego9x&theme=transparent&show_icons=true&rank_icon=github" />
 </a>
@@ -28,7 +28,6 @@
   <a href = "________"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="________" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/Dyego9x/Dyego9x/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
